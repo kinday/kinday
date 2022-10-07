@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Social networks
+
+- <a rel="me" href="https://mastodon.cloud/@kinday">`@kinday@mastodon.cloud`</a>
