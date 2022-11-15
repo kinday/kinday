@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 #### Social networks
 
-- <a rel="me" href="https://mastodon.cloud/@kinday">`@kinday@mastodon.cloud`</a>
+- <a rel="me" href="https://mstdn.social/@kinday">`@kinday@mstdn.social`</a>
+- <a rel="me" href="https://fosstodon.org/@kinday">`@kinday@fosstodon.org`</a>
+- <a rel="me" href="https://pixelfed.social/@kinday">`@kinday@pixelfed.social`</a>
